@@ -76,6 +76,6 @@ app.post('/store-goal', (req, res) => {
 
 app.listen(4000, () => {
 
-    console.log('Express server is listening on port 4000')
+    console.log('Express server is listening on port 4000 and ready')
 
 });
